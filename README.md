@@ -1,1 +1,1 @@
-![arknights](https://user-images.githubusercontent.com/67855031/157254209-2b819949-9425-473a-b90c-854a90b31e10.gif)
+![ezgif-4-5ac3b5aea5](https://user-images.githubusercontent.com/67855031/157255041-d5093d9e-aff6-4e1e-90d9-477e088283ea.gif)
