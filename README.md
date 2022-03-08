@@ -10,10 +10,11 @@
 
 <hr>
 
-                                                           🌱 I'm a student, manga-reader, and ofc, a coder!
+                                     🌱 I'm a student, manga-reader, and ofc, a coder!
 
-                                                              👨‍💻 I'm currently learning C++, JS, HTML, CSS
-
+                                       👨‍💻 I'm currently learning C++, JS, HTML, CSS
 <hr>
 
+![Welcome to my profile (1)](https://user-images.githubusercontent.com/67855031/157344020-4a344442-87cb-4559-9eb9-edb230087bc6.png)
 
+![Untitled design](https://user-images.githubusercontent.com/67855031/157344317-d3b1d4a4-f901-4ac4-9e08-3463d0f91dfe.png)
