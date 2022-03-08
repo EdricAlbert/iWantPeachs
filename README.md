@@ -17,7 +17,7 @@
 
 ![Welcome to my profile (1)](https://user-images.githubusercontent.com/67855031/157344020-4a344442-87cb-4559-9eb9-edb230087bc6.png)
 
-![Untitled design](https://user-images.githubusercontent.com/67855031/157344453-121d3d8d-be54-47a9-aacf-3df718b05da5.png)   https://www.facebook.com/my.day.52/
+![Untitled design](https://user-images.githubusercontent.com/67855031/157344453-121d3d8d-be54-47a9-aacf-3df718b05da5.png)  <strong> https://www.facebook.com/my.day.52/ <strong>
 
 ![Untitled design (1)](https://user-images.githubusercontent.com/67855031/157344554-5b21f20e-7071-4029-83bd-8afa5d2ddb5e.png)   https://codeforces.com/profile/Edric_Albert
 
