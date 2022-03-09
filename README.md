@@ -15,7 +15,8 @@
                                        👨‍💻 I'm currently learning C++, JS, HTML, CSS
                                        
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iWantPeachs&count_private=true&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iWantPeachs&show_icons=true&theme=radical)
 
 <hr>
 
