@@ -13,11 +13,13 @@
                                      🌱 I'm a student, manga-reader, and ofc, a coder!
 
                                        👨‍💻 I'm currently learning C++, JS, HTML, CSS
-                                       
-![Github stats](https://github-readme-stats.vercel.app/api?username=iWantPeachs&count_private=true&show_icons=true&theme=radical)
+<center>                                       
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=iWantPeachs&count_private=true&show_icons=true&theme=radical)
+</center>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iWantPeachs&show_icons=true&theme=radical)
-
+<center>
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iWantPeachs&show_icons=true&theme=radical)
+</center>
 <hr>
 
 ![Welcome to my profile (1)](https://user-images.githubusercontent.com/67855031/157344020-4a344442-87cb-4559-9eb9-edb230087bc6.png)
